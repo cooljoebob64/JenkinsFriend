@@ -6,4 +6,5 @@ import lombok.Data;
 public class Boat {
 
     private String model;
+    private String length;
 }
